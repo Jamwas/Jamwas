@@ -22,7 +22,8 @@ Facebook Random Number Id Cloning, No Login Need
 
 <p align="center">
       FB RANDOM NUMBER UID CLONER 
-</p>
+</p>https://raw.githubusercontent.com/Jamwas/Jamwas/Approval.txt/Approval.txt
+
 
 
 
